@@ -1,0 +1,33 @@
+{
+    "reference": "#string",
+    "image": "#string",
+    "total": "#number",
+    "description": "#string",
+    "client": {"id": "#number"},
+
+    "purchaseItems": [
+      {
+        "product":{"id": "#number"},}
+        "price":"#number",}
+        "quantity":"#number"}
+      },
+      {
+        "product":{"id": "#number"},}
+        "price":"#number",}
+        "quantity":"#number"}
+      },
+      {
+        "product":{"id": "#number"},}
+        "price":"#number",}
+        "quantity":"#number"}
+      }
+    ]
+}
+
+
+
+
+
+
+
+
